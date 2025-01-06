@@ -1,0 +1,485 @@
+[
+    {
+        "id": 1,
+        "title": "Elegant Leather Handbag",
+        "price": 75.99,
+        "description": "A stylish and durable leather handbag perfect for daily use. Spacious and lightweight.",
+        "category": "women's accessories",
+        "image": "https://cdn.pixabay.com/photo/2017/08/06/22/01/bag-2596210_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 85
+        }
+    },
+    {
+        "id": 2,
+        "title": "Premium Wireless Headphones",
+        "price": 120.50,
+        "description": "High-quality sound with noise-cancellation and long battery life. Ideal for music lovers.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/headphones-1868612_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 210
+        }
+    },
+    {
+        "id": 3,
+        "title": "Modern Wooden Coffee Table",
+        "price": 199.99,
+        "description": "A sleek, modern coffee table made from high-quality oak wood, perfect for your living room.",
+        "category": "furniture",
+        "image": "https://cdn.pixabay.com/photo/2016/03/09/09/22/wood-1246581_960_720.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 50
+        }
+    },
+    {
+        "id": 4,
+        "title": "Sports Running Shoes",
+        "price": 89.99,
+        "description": "Lightweight and comfortable running shoes designed for maximum performance.",
+        "category": "footwear",
+        "image": "https://cdn.pixabay.com/photo/2016/11/19/15/40/adult-1836445_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 300
+        }
+    },
+    {
+        "id": 5,
+        "title": "Luxury Quartz Wristwatch",
+        "price": 249.99,
+        "description": "A premium quartz wristwatch with a stainless steel band and water-resistant design.",
+        "category": "jewelery",
+        "image": "https://cdn.pixabay.com/photo/2017/08/06/09/01/watch-2593422_960_720.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 180
+        }
+    },
+    {
+        "id": 6,
+        "title": "Men's Casual T-shirt",
+        "price": 19.99,
+        "description": "A comfortable, slim-fit t-shirt for men, perfect for everyday wear.",
+        "category": "men's clothing",
+        "image": "https://cdn.pixabay.com/photo/2016/03/27/22/22/shirt-1281076_960_720.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 150
+        }
+    },
+    {
+        "id": 7,
+        "title": "Women's Summer Dress",
+        "price": 59.99,
+        "description": "A beautiful and lightweight summer dress with floral prints, perfect for casual outings.",
+        "category": "women's clothing",
+        "image": "https://cdn.pixabay.com/photo/2016/08/07/17/24/flower-1573473_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 95
+        }
+    },
+    {
+        "id": 8,
+        "title": "Stylish Kitchen Knife Set",
+        "price": 45.99,
+        "description": "A high-quality, durable knife set for all your kitchen needs.",
+        "category": "kitchenware",
+        "image": "https://cdn.pixabay.com/photo/2016/03/09/09/02/knife-1247640_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 70
+        }
+    },
+    {
+        "id": 9,
+        "title": "Plush Teddy Bear",
+        "price": 15.99,
+        "description": "A soft and cuddly teddy bear for children of all ages.",
+        "category": "toys",
+        "image": "https://cdn.pixabay.com/photo/2016/03/09/15/23/doll-1247633_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 300
+        }
+    },
+    {
+        "id": 10,
+        "title": "Portable Bluetooth Speaker",
+        "price": 35.99,
+        "description": "A compact, waterproof Bluetooth speaker for music on the go.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2017/06/13/08/31/bluetooth-2393220_960_720.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 215
+        }
+    },
+    {
+        "id": 11,
+        "title": "Wireless Charger Pad",
+        "price": 25.99,
+        "description": "A sleek wireless charging pad that supports all Qi-enabled devices.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2020/06/25/08/59/charger-5333551_960_720.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 120
+        }
+    },
+    {
+        "id": 12,
+        "title": "Smart Digital Watch",
+        "price": 129.99,
+        "description": "Track your fitness and stay connected with this sleek smartwatch.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2017/03/04/18/45/smartwatch-2113043_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 250
+        }
+    },
+    {
+        "id": 13,
+        "title": "Stainless Steel Water Bottle",
+        "price": 19.49,
+        "description": "Keep your drinks cold or hot with this insulated stainless steel water bottle.",
+        "category": "kitchenware",
+        "image": "https://cdn.pixabay.com/photo/2017/05/19/16/30/water-bottle-2322744_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 180
+        }
+    },
+    {
+        "id": 14,
+        "title": "Vintage Sunglasses",
+        "price": 34.99,
+        "description": "Classic vintage sunglasses with UV protection, perfect for sunny days.",
+        "category": "accessories",
+        "image": "https://cdn.pixabay.com/photo/2015/09/18/17/44/sunglasses-942292_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 15,
+        "title": "Leather Wallet for Men",
+        "price": 45.99,
+        "description": "A stylish leather wallet with multiple compartments for cash and cards.",
+        "category": "accessories",
+        "image": "https://cdn.pixabay.com/photo/2016/06/16/22/44/wallet-1463070_960_720.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 120
+        }
+    },
+    {
+        "id": 16,
+        "title": "Stylish Canvas Backpack",
+        "price": 49.99,
+        "description": "A durable and stylish canvas backpack, ideal for daily use or travel.",
+        "category": "bags",
+        "image": "https://cdn.pixabay.com/photo/2016/12/06/01/32/backpack-1884059_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 140
+        }
+    },
+    {
+        "id": 17,
+        "title": "Air Fryer",
+        "price": 89.99,
+        "description": "Cook your favorite meals with little or no oil using this air fryer.",
+        "category": "kitchenware",
+        "image": "https://cdn.pixabay.com/photo/2020/05/23/11/42/air-fryer-5202669_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 110
+        }
+    },
+    {
+        "id": 18,
+        "title": "Comfortable Office Chair",
+        "price": 159.99,
+        "description": "An ergonomic office chair with adjustable height and lumbar support for long hours of comfort.",
+        "category": "furniture",
+        "image": "https://cdn.pixabay.com/photo/2017/07/18/11/06/office-2512186_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 150
+        }
+    },
+    {
+        "id": 19,
+        "title": "Home Exercise Equipment",
+        "price": 69.99,
+        "description": "A set of home exercise equipment to stay fit without going to the gym.",
+        "category": "sports",
+        "image": "https://cdn.pixabay.com/photo/2020/06/07/05/52/fitness-5269599_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 130
+        }
+    },
+    {
+        "id": 20,
+        "title": "Electric Toothbrush",
+        "price": 45.99,
+        "description": "An electric toothbrush with advanced features for a superior clean.",
+        "category": "health",
+        "image": "https://cdn.pixabay.com/photo/2017/06/13/10/44/toothbrush-2393226_960_720.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 220
+        }
+    },
+
+ 
+    {
+        "id": 21,
+        "title": "Portable Laptop Stand",
+        "price": 29.99,
+        "description": "An adjustable portable laptop stand, perfect for working on the go.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2018/11/10/07/52/stand-3807241_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 100
+        }
+    },
+    {
+        "id": 22,
+        "title": "Smartphone Camera Lens Kit",
+        "price": 19.99,
+        "description": "Enhance your smartphone's camera with this lens kit for better pictures.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2017/11/19/17/05/camera-2963086_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 125
+        }
+    },
+    {
+        "id": 23,
+        "title": "Luxury Leather Wallet",
+        "price": 99.99,
+        "description": "A premium leather wallet with RFID protection, designed for the modern man.",
+        "category": "accessories",
+        "image": "https://cdn.pixabay.com/photo/2018/01/21/21/46/wallet-3091592_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 85
+        }
+    },
+    {
+        "id": 24,
+        "title": "Electric Coffee Grinder",
+        "price": 39.99,
+        "description": "Grind your coffee beans to perfection with this electric coffee grinder.",
+        "category": "kitchenware",
+        "image": "https://cdn.pixabay.com/photo/2020/03/06/07/17/coffee-4909821_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 110
+        }
+    },
+    {
+        "id": 25,
+        "title": "Cotton Bed Sheets",
+        "price": 49.99,
+        "description": "Soft and breathable cotton bed sheets for a good night's sleep.",
+        "category": "bedding",
+        "image": "https://cdn.pixabay.com/photo/2017/07/28/05/53/bed-2545511_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 160
+        }
+    },
+    {
+        "id": 26,
+        "title": "Men's Leather Boots",
+        "price": 129.99,
+        "description": "Stylish leather boots for men, durable and perfect for colder weather.",
+        "category": "footwear",
+        "image": "https://cdn.pixabay.com/photo/2015/10/27/17/19/boots-1019532_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 140
+        }
+    },
+    {
+        "id": 27,
+        "title": "Electric Bike",
+        "price": 799.99,
+        "description": "A powerful and eco-friendly electric bike for city commuting.",
+        "category": "sports",
+        "image": "https://cdn.pixabay.com/photo/2020/11/02/11/02/bike-5708199_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 50
+        }
+    },
+    {
+        "id": 28,
+        "title": "Camping Tent",
+        "price": 99.99,
+        "description": "A lightweight and durable camping tent that can fit up to four people.",
+        "category": "outdoor",
+        "image": "https://cdn.pixabay.com/photo/2015/09/06/21/46/camping-926071_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 120
+        }
+    },
+    {
+        "id": 29,
+        "title": "Portable Power Bank",
+        "price": 19.99,
+        "description": "Keep your devices charged on the go with this portable power bank.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/06/56/powerbank-1868463_960_720.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 220
+        }
+    },
+    {
+        "id": 30,
+        "title": "Luxury Bed Mattress",
+        "price": 599.99,
+        "description": "A premium bed mattress designed for comfort and support, ensuring a good night's rest.",
+        "category": "bedding",
+        "image": "https://cdn.pixabay.com/photo/2015/08/17/11/59/bed-895308_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 130
+        }
+    },
+    {
+        "id": 31,
+        "title": "Yoga Mat",
+        "price": 19.99,
+        "description": "A non-slip yoga mat with excellent cushioning for comfort during your practice.",
+        "category": "sports",
+        "image": "https://cdn.pixabay.com/photo/2016/01/08/19/08/yoga-1130750_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 180
+        }
+    },
+    {
+        "id": 32,
+        "title": "Portable Fan",
+        "price": 14.99,
+        "description": "Stay cool during hot weather with this portable handheld fan.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2019/06/11/12/47/fan-4262075_960_720.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 250
+        }
+    },
+    {
+        "id": 33,
+        "title": "Desk Lamp",
+        "price": 39.99,
+        "description": "A modern and adjustable desk lamp, perfect for working or studying.",
+        "category": "furniture",
+        "image": "https://cdn.pixabay.com/photo/2017/08/30/04/56/desk-2695473_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 220
+        }
+    },
+    {
+        "id": 34,
+        "title": "Electric Shaver",
+        "price": 59.99,
+        "description": "An electric shaver for a smooth, close shave without the hassle of traditional razors.",
+        "category": "health",
+        "image": "https://cdn.pixabay.com/photo/2020/04/17/14/22/shaver-5054932_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 190
+        }
+    },
+    {
+        "id": 35,
+        "title": "Smart Home Security Camera",
+        "price": 79.99,
+        "description": "A high-definition security camera with motion detection and night vision.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2017/06/19/22/26/security-2415949_960_720.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 170
+        }
+    },
+    {
+        "id": 36,
+        "title": "Smartphone Tripod Stand",
+        "price": 24.99,
+        "description": "A tripod stand for your smartphone, perfect for stable shots and video recording.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2016/05/05/04/55/tripod-1375331_960_720.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 160
+        }
+    },
+    {
+        "id": 37,
+        "title": "Luxury Bathrobe",
+        "price": 69.99,
+        "description": "A soft and luxurious bathrobe made from high-quality cotton for ultimate comfort.",
+        "category": "home",
+        "image": "https://cdn.pixabay.com/photo/2017/11/04/00/44/bathrobe-2912672_960_720.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 150
+        }
+    },
+    {
+        "id": 38,
+        "title": "Wireless Earbuds",
+        "price": 59.99,
+        "description": "Comfortable and compact wireless earbuds with excellent sound quality.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2020/11/17/18/21/earbuds-5748680_960_720.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 200
+        }
+    },
+    {
+        "id": 39,
+        "title": "Bluetooth Car Kit",
+        "price": 29.99,
+        "description": "A Bluetooth car kit for hands-free calling and music streaming in your car.",
+        "category": "electronics",
+        "image": "https://cdn.pixabay.com/photo/2017/08/07/07/22/bluetooth-2597413_960_720.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 150
+        }
+    },
+    {
+        "id": 40,
+        "title": "Electric Kettle",
+        "price": 39.99,
+        "description": "An electric kettle with fast boiling time, perfect for your kitchen.",
+        "category": "kitchenware",
+        "image": "https://cdn.pixabay.com/photo/2017/12/20/14/54/kettle-3037011_960_720.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 170
+        }
+    }
+
+]
